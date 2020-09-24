@@ -40,7 +40,7 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 
 Foram usadas 2 referências para a realização deste código, são elas:
 
-- [Documentação Microsoft C#](https://docs.microsoft.com/pt-br/cpp/?view=vs-2019)
+- [Documentação Microsoft C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Apostila Caelum POO C#](https://www.caelum.com.br/apostila/apostila-csharp-orientacao-objetos.pdf)
 
 --- 
