@@ -7,17 +7,17 @@ Programa em C# para cadastro de fornecedores ligados a uma empresa **[Leia o REA
 
 Foi um desafio/teste lançado pela BluData Software, para fazer um programa de cadastro de fornecedores ligados a uma empresa. Gostei muito da proposta do teste e com muito carinho aceitei realizar o teste, e aqui está o resultado!
 
-Estudei o melhor caminho para realizar este desafio, baseado no problema passado! Conheça a **[BluData](https://www.bludata.com.br/)
+Estudei o melhor caminho para realizar este desafio, baseado no problema passado! Conheça a [BluData](https://www.bludata.com.br/)
 
 --- 
 
-## ❕ Sobre este Projeto
+## ❕ Importante sobre o Programa
 
 - Aconselho o uso da IDE Visual Studio (Versão que desejar!) para rodar o programa;
 - Não possue interface gráfica, deve ser rodado diretamente pelo console/terminal;
 - Como foi realizado com duas classes (CadastroMain, Cadastro), necessita que os dois arquivos estejam em mesma pasta para depuração;
 - Este código tem muitas entradas que são do tipo int, portanto não digite String nestas entradas, pois existe a possibilidade que a execução inteira do código pare;
-- Desenvolvido por *[Jonathas Rocha de Souza](https://github.com/jonathasrochadesouza)
+- Desenvolvido por [Jonathas Rocha de Souza](https://github.com/jonathasrochadesouza)
 
 --- 
 
@@ -40,8 +40,8 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 
 Foram usadas 2 referências para a realização deste código, são elas:
 
-- *[Documentação Microsoft C#](https://docs.microsoft.com/pt-br/cpp/?view=vs-2019)
-- *[Apostila Caelum POO C#](https://www.caelum.com.br/apostila/apostila-csharp-orientacao-objetos.pdf)
+- [Documentação Microsoft C#](https://docs.microsoft.com/pt-br/cpp/?view=vs-2019)
+- [Apostila Caelum POO C#](https://www.caelum.com.br/apostila/apostila-csharp-orientacao-objetos.pdf)
 
 --- 
 
