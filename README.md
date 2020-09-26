@@ -5,7 +5,7 @@ Programa em C# para cadastro de fornecedores ligados a uma empresa **[Leia o REA
 
 ## 📖 Sobre este Projeto
 
-Era um teste em C# que desenvolvi, para fazer um programa de cadastro de fornecedores ligados a uma empres, aqui está o resultado!
+Era um teste em C# que desenvolvi, para fazer um programa de cadastro de fornecedores ligados a uma empresa, aqui está o resultado!
 
 Estudei o melhor caminho para realizar este desafio, baseado no problema passado!
 
