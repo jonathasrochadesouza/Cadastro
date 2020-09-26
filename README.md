@@ -5,9 +5,11 @@ Programa em C# para cadastro de fornecedores ligados a uma empresa **[Leia o REA
 
 ## 📖 Sobre este Projeto
 
-Foi um desafio/teste lançado pela BluData Software, para fazer um programa de cadastro de fornecedores ligados a uma empresa. Gostei muito da proposta do teste e com muito carinho aceitei realizar o teste, e aqui está o resultado!
+Era um teste em C# que desenvolvi, para fazer um programa de cadastro de fornecedores ligados a uma empres, aqui está o resultado!
 
-Estudei o melhor caminho para realizar este desafio, baseado no problema passado! Conheça a [BluData](https://www.bludata.com.br/)
+Estudei o melhor caminho para realizar este desafio, baseado no problema passado!
+
+### ⚠ ATENÇÃO!! Foi desenvolvido para rodar no terminal, não foi desenvolvido interfaces!
 
 --- 
 
