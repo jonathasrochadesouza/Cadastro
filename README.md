@@ -1,5 +1,5 @@
 # Cadastro
-Programa em C# para cadastro de fornecedores ligados a uma empresa **[Leia o README].
+Programa em C# para cadastro de fornecedores ligados a uma empresa **[Leia o README]**.
 
 ---
 
