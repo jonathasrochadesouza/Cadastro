@@ -1,6 +1,8 @@
 # Cadastro
 Programa em C# para cadastro de fornecedores ligados a uma empresa **[Leia o README]**.
 
+---
+
 ## 📖 Sobre este Projeto
 
 Era um teste em C# que desenvolvi, para fazer um programa de cadastro de fornecedores ligados a uma empresa, aqui está o resultado!
@@ -9,6 +11,8 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 
 ### ⚠ ATENÇÃO!! Foi desenvolvido para rodar no terminal, não foi desenvolvido interfaces!
 
+---
+
 ## ❕ Importante sobre o Programa
 
 - Aconselho o uso da IDE Visual Studio (Versão que desejar!) para rodar o programa;
@@ -16,6 +20,8 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 - Como foi realizado com duas classes (CadastroMain, Cadastro), necessita que os dois arquivos estejam em mesma pasta para depuração;
 - Este código tem muitas entradas que são do tipo int, portanto não digite String nestas entradas, pois existe a possibilidade que a execução inteira do código pare;
 - Desenvolvido por [Jonathas Rocha de Souza](https://github.com/jonathasrochadesouza)
+
+---
 
 ## 🚩 Como executar
 
