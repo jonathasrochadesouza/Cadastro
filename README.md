@@ -36,7 +36,6 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 
 >> Caso exista inconsistência na abertura e depuração do código, entre em contato e tentarei reenviar o código aqui no meu repositório!
 ```
----
 
 ### Referências:
 
