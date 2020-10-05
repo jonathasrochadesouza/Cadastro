@@ -21,8 +21,6 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 - Este código tem muitas entradas que são do tipo int, portanto não digite String nestas entradas, pois existe a possibilidade que a execução inteira do código pare;
 - Desenvolvido por [Jonathas Rocha de Souza](https://github.com/jonathasrochadesouza)
 
---- 
-
 ## 🚩 Como executar
 
 ```bash
