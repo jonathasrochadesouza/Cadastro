@@ -37,12 +37,12 @@ Estudei o melhor caminho para realizar este desafio, baseado no problema passado
 >> Caso exista inconsistência na abertura e depuração do código, entre em contato e tentarei reenviar o código aqui no meu repositório!
 ```
 
-### Referências:
+### References:
 
-Foram usadas 2 referências para a realização deste código, são elas:
+Two reference, are:
 
-- [Documentação Microsoft C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
-- [Apostila Caelum POO C#](https://www.caelum.com.br/apostila/apostila-csharp-orientacao-objetos.pdf)
+- [Documentation Microsoft C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [Caelum OOP C# - Language: Portuguese (pt-BR)](https://www.caelum.com.br/apostila/apostila-csharp-orientacao-objetos.pdf)
 
 --- 
 
