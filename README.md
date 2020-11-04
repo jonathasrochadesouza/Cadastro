@@ -46,7 +46,7 @@ Two reference, are:
 
 --- 
 
-Desenvolvido por [Jonathas](https://github.com/jonathasrochadesouza)
+Development by [Jonathas](https://github.com/jonathasrochadesouza)
 
 
 This Readme.md is in English (US)
