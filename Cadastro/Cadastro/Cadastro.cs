@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using Microsoft.VisualBasic.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
-
 namespace Cadastro
 {
     class Empresa
