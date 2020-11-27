@@ -49,4 +49,4 @@ Two reference, are:
 Development by [Jonathas](https://github.com/jonathasrochadesouza)
 
 
-This Readme.md is in English (US)
+Will be converted to English (US)
