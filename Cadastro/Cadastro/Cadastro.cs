@@ -5,6 +5,9 @@ using System.Collections.Generic;
 using Microsoft.VisualBasic.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 
+/**
+@author: Jonathas Rocha de Souza <jonathasrochadesouza@gmail.com>
+*/
 namespace Cadastro
 {
     class Empresa
