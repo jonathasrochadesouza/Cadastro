@@ -22,11 +22,12 @@ namespace Cadastro
         {
             Empresa Acess = new Empresa(); // método acessor
 
-            String cnpjE = "";
-            String readGeneralString;
             ArrayList data = new ArrayList();
             ArrayList telefone = new ArrayList();
             ArrayList telefone2 = new ArrayList();
+         
+            String cnpjE = "";
+            String readGeneralString;
             int idade;
             int readInt;
             int i = 0;
