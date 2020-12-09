@@ -49,4 +49,5 @@ Two reference, are:
 Development by [Jonathas](https://github.com/jonathasrochadesouza)
 
 
+README.md in Portuguese!
 Will be converted to English (US)
